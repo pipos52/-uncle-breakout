@@ -1,0 +1,9 @@
+node_modules/
+android/.gradle/
+android/app/.gradle/
+android/.cxx/
+*.keystore
+*.jks
+.DS_Store
+*.log
+capacitor.config.json
